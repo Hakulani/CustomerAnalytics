@@ -46,7 +46,7 @@ For the purpose of this analysis, we've concentrated solely on member data.
 - **VISIT_DIFF**: The difference in visits between the first and last visit.
 
 ## Silhouette and Elbow to find the number of K 
-![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/88bca12b-80e5-4cc6-87e1-13fc925c54ef)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/ecd7ae37-bf5b-4483-be6a-2957f48282f3)
 
 ## k-mean clustering  K=5
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/13853d5d-3e15-49ff-9dde-e9a113feb4cb)
