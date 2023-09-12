@@ -144,7 +144,6 @@ Confusion Matrix:
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/462c132e-f4e1-4e5f-8d35-7b9e1e8f2182)
 
 <code>
-
               precision    recall  f1-score   support
 
            0       0.95      0.80      0.87       623
