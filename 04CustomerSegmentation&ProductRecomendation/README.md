@@ -139,13 +139,24 @@ These features provide a holistic view of customer behavior, spending patterns, 
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/3d33b617-9ae0-4938-ad53-f4db23c76dc3)
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/f8f53bc6-5207-485f-b38a-9a0b0c5b8146)
 Customer Segmentation
-![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/1003ff5a-1416-452d-a79d-0584b73faa44)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/8a80ee55-4dd8-45de-9d96-87913bf5d1b6)
+
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/ff1cde91-4b44-42e5-b219-c71b8c9b48f9)
 
 Understanding customer behavior each cluster from  point of distribution  
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/1baf134f-5f53-4e7a-ac19-c990f4350f89)
 
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/b0e1c864-e9b1-4bb9-9dff-b2778785cf4d)
+
+Segmentation: Cluster 2 Analysis
+K-means Methodology - 2nd
+To gain more precise insights and distinguish sharper characteristics:
+
+We reapplied the K-means clustering algorithm for the second time on our dataset. This repeated approach was implemented to extract finer details and identify more distinct groupings, enabling an enriched segmentation perspective.
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/647d8211-7382-4d1e-b3b4-02e8b6933d46)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/060cb591-30f0-40ca-82eb-dd3fcefcd9a4)
 
 # Random Forest Classification for Cluster Prediction
 This project focuses on leveraging the power of the Random Forest algorithm to predict data clusters and analyze cluster movement over different time frames.
@@ -188,6 +199,30 @@ Our primary goal is to up-sell by making tailored product recommendations. By do
 **Product Recommendation to Target Audience**
 
 Our approach is to leverage data-driven insights and machine learning models to understand our customers better and recommend products that are most relevant to them. The strategy involves:
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/4638222c-3b85-48e2-917b-c88111ff3aed)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/8a6d8443-a36a-490d-93cf-80cf78d89859)
+
+## Bucket Analysis
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/a767e550-a324-468a-8cd0-928ab58c938c)
+
+Collaborative Filtering
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/f07da264-633c-4811-af74-49688d4b2582)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/a26d6260-121b-4d19-9d48-40ddab774a33)
+
+
+The latent space : user & item
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/598585f4-d68b-46da-b5ce-c4c6498c86df)
+
+## Business Impact of Product Recommendation
+
+In today's highly competitive retail landscape, maximizing sales and enhancing the shopping experience are paramount. Product recommendations can significantly contribute to achieving these goals, primarily by guiding customers towards making additional purchases based on their preferences.
+## 🎯 Objective
+**Boost sales by at least 10%.** Our primary focus is customers who are purchasing only a single item. By recommending complementary or similar products, we aim to enhance their shopping journey, encouraging them to consider additional purchases.
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/835fade8-9058-4cc9-8385-c0b7a2e21d26)
 
 
 
