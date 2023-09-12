@@ -203,7 +203,7 @@ Our approach is to leverage data-driven insights and machine learning models to 
 
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/8a6d8443-a36a-490d-93cf-80cf78d89859)
 
-## Bucket Analysis
+## Market Basket Analysis — Association Rules 
 
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/a767e550-a324-468a-8cd0-928ab58c938c)
 
