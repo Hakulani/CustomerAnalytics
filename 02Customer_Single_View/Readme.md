@@ -54,9 +54,22 @@ For the purpose of this analysis, we've concentrated solely on member data.
 ## Feature Importance
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/4cddc5f1-c853-4236-ade8-a6f419404cc1)
 
-## Customer groups and feature 
-![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/179f84e4-f51e-454f-b2c5-d422490436b7)
+## Customer segment and Features
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/16cd0404-d40e-4015-b617-e63b8d5f2ed6)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/81bf8357-8f55-4c96-aeab-dc760a6028d8)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/f5eea40d-50ea-4ace-b23e-eba87f8d2559)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/5fa659ec-51f9-4012-b252-06f3db15223f)
+
 
 ## Growth and Strategies
-![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/3849af07-b13f-4d80-81e1-2a19c05fba5d)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/73bfb288-73ad-493e-a5a1-6b66a4adfea0)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/6a9a1e6c-32be-4267-bbd7-93feedd2ea4a)
+
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/ae637431-0d1b-4140-88d0-ed88084ec05a)
 
