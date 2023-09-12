@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>Voice of Customer Topic Modeling from review</title></head>
+<head>Voice of Customer Topic Modeling from review </head>
 <body>
 
 <h1>Thai Topic Modeling using PyThaiNLP, Gensim and pyLDAvis</h1>
