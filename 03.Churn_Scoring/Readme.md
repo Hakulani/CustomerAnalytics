@@ -222,6 +222,9 @@ def fit_evaluate(clf, X_train, X_test, y_train, y_test):
 modelXGB = xgb.XGBClassifier(objective='binary:logistic', eval_metric="auc")
 print('* XGBoost Classifier * \n')
 fit_evaluate(modelXGB, X_train, X_test, y_train, y_test)
+</code>
+
+<code>
 
 * XGBoost Classifier * 
 
