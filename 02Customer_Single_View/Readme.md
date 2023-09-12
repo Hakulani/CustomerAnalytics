@@ -24,7 +24,7 @@ Imagine a scenario where a supermarket wants to create a single customer view. T
 ## Segmentation
 
 ## Silhouette and Elbow to find the number of K 
-![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/443646f9-546f-4b41-8a78-881240c7f224)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/88bca12b-80e5-4cc6-87e1-13fc925c54ef)
 
 ## k-mean clustering  K=5
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/13853d5d-3e15-49ff-9dde-e9a113feb4cb)
