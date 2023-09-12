@@ -116,6 +116,8 @@ class ModelEvaluator:
             plt.show()
         return pd.DataFrame(results)
 
+</code>
+<code>
 #Specify the models you want to evaluate
 models = {
     'Logistic Regression': LogisticRegression(),
