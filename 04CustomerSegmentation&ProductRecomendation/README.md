@@ -81,7 +81,8 @@ The goal is to aggregate sales transaction data to formulate a customer single v
 
 
 # Social Network Analysis
-![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/a8ac4d16-a122-4cb2-bd20-037768b54867)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/cc6370d0-acd3-44a4-a67f-f2b0716edf63)
+
 
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/012ebecb-6f4c-4b08-85f7-a827f3e1ae6e)
 
@@ -113,12 +114,81 @@ The goal is to aggregate sales transaction data to formulate a customer single v
 
 Using the data from the customer single view, segment the customers.
 
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/103a5586-0846-4281-91ba-aec0e934990a)
 
-## Feature Summary
-### Behavior's:
-(You can provide the behavior features you'll be using for clustering here.)
+## Feature Selection for Customer Segmentation:
 
-## Determine Optimal Number of Clusters 
+1. **Total Amount**: Cumulative spending of each customer.
+2. **Total Quantity**: Overall number of items purchased by each customer.
+3. **Frequency**: Count of transactions made by each customer.
+4. **Visit Period**: Duration between the first and last transaction dates for each customer.
+5. **Mean Time Between Purchase**: Average time interval between successive purchases. It's calculated as the total time span from the start date to the last purchase date divided by the total number of transactions.
+6. **Basket Size**: Represents the average spending for every item bought by a customer.
+7. **Order Size**: Average spending for each order placed by a customer.
+8. **Visit Size**: Average quantity of items bought in each transaction by a customer.
+9. **CLTV (Customer Lifetime Value)**: Predicted net profit from a customer throughout their lifetime relationship with the business.
+10. **Discount Amount**: Cumulative discount received by each customer.
+11. **Visit Center**: Count of unique centers or locations visited by each customer.
+12. **%Qty by Price Range**: Percentage distribution of items purchased by a customer across different price brackets. This feature provides insights into the customer's spending habits across various price ranges.
+13. **Member**: Count of individuals or entities that are under the direct influence or referral of the customer (often referred to as downlines in a referral or MLM system).
+
+These features provide a holistic view of customer behavior, spending patterns, and engagement with the business, making them crucial for effective segmentation.
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/70d5f793-bcce-4a67-90d9-1b0eb7a1af95)
+
+## Determine Optimal Number of Clusters and Kmean clustering (1st)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/3d33b617-9ae0-4938-ad53-f4db23c76dc3)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/f8f53bc6-5207-485f-b38a-9a0b0c5b8146)
+Customer Segmentation
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/1003ff5a-1416-452d-a79d-0584b73faa44)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/ff1cde91-4b44-42e5-b219-c71b8c9b48f9)
+
+Understanding customer behavior each cluster from  point of distribution  
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/1baf134f-5f53-4e7a-ac19-c990f4350f89)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/b0e1c864-e9b1-4bb9-9dff-b2778785cf4d)
+
+# Random Forest Classification for Cluster Prediction
+This project focuses on leveraging the power of the Random Forest algorithm to predict data clusters and analyze cluster movement over different time frames.
+## Overview
+Random Forest is a renowned ensemble learning technique that constructs multiple decision trees during training and outputs the class that is the mode of the classes (classification) of the individual trees. By leveraging subsets of data observations and variables, the Random Forest model achieves enhanced accuracy and stability in its predictions.
+
+In the context of this project, we've previously applied clustering to segment our data. The results from this clustering serve as input for our classification model. The overarching goal is to predict which cluster a new data point would belong to and to understand the migration or movement of these data points between clusters over time.
+
+## Purpose
+
+The main objectives of this project include:
+
+1. **Predictive Cluster Analysis**: Utilize the Random Forest classifier to predict the cluster label for incoming or new data.
+  
+2. **Cluster Movement Analysis**: Analyze the transition of data points from one cluster to another over specific time intervals, providing insights into the evolving behavior and characteristics of the segmented groups.
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/a930ff72-734a-4d76-9dc3-f7a1b2fe3960)
+
+# Product Recommendation System
+
+In the ever-evolving retail landscape, it is paramount to understand customer behavior and preferences in order to optimize sales. Our product recommendation system is designed to achieve this very goal by targeting a specific set of customers to enhance their shopping experience and, in turn, boost our sales.
+
+## 🎯 Target Audience
+
+**Customers purchasing a singular item.** 
+
+These are individuals who, at the moment, opt for a single product. Our system will target these customers, aiming to introduce them to complementary or similar products that align with their purchase preferences and behaviors.
+
+## 📈 Objective 
+
+**Up-selling** 
+
+Our primary goal is to up-sell by making tailored product recommendations. By doing so, we aim to:
+- Increase the average cart value of our customers.
+- Improve the overall customer experience by introducing them to products they might like.
+- **Achieve a minimum of 10% increase in sales of Target Audience** by implementing the recommendation system effectively.
+- 
+## 🚀 Strategy
+
+**Product Recommendation to Target Audience**
+
+Our approach is to leverage data-driven insights and machine learning models to understand our customers better and recommend products that are most relevant to them. The strategy involves:
+
 
 
 
