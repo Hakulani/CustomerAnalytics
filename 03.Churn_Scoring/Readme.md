@@ -1,4 +1,18 @@
-# Churn Predicition
+# Churn Scoring 
+## Customer Churn Analysis
+
+**What is Customer Churn?**  
+Customer churn refers to the scenario when customers cease their engagement with a service or product. The frequency of churn can be analyzed on different timelines - monthly, quarterly, or annually. This phenomenon can drastically impact a company's revenue streams, stymie growth, and escalate the costs related to customer acquisition.
+
+**Importance of Customer Churn Scoring:**  
+Customer Churn Scoring uses behavioral patterns to predict which customers are most likely to disengage. Such predictive insights empower businesses to intervene proactively, potentially preventing customers from severing their ties.
+
+**Our Approach:**  
+In our analysis, we employed a mix of analytical models and sampling techniques. The primary objective was to discern which combination of these methods yielded the most accurate predictions for our dataset.
+
+**Case Study Insights:**  
+The data foundation for our models is an e-commerce dataset comprised of 5,630 entries spread across 20 columns. The dataset encapsulates the following particulars:
+
 ## Dataset Overview
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/dd11bba8-93ce-4dd2-b115-51ec7ca0bcc8)
 
