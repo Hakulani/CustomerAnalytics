@@ -105,10 +105,11 @@ pyLDAvis.gensim.prepare(model, gensim_corpus, dictionary)
 </code>
 
 <p>This will provide an interactive visualization where you can explore the topics, view the terms that make up each topic, and see the distribution of topics across the corpus.</p>
-![0](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/b61af453-7bea-4cef-8574-aeb11b2fbefc)
+
+
+![0](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/05c59267-d894-409b-8d72-bf2e40d3b21e)
 
 ![1](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/344ebb22-b1a1-452f-9f4f-909080d7ba49)
-
 
 ![2](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/1a7d3a45-7fe0-4f71-8dc4-b25f9db88b5b)
 
