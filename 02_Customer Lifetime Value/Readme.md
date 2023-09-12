@@ -13,3 +13,7 @@ The formula for calculating CLV can vary based on the complexity of the business
 Customer Scoring is a methodological approach used to assess and categorize customers using certain criteria or points. This technique is paramount in the realms of marketing and sales, allowing teams to prioritize leads, spotlight high-worth customers, and forecast customer actions.
 
 ## Case Study 
+From the existing customer scoring program using CLV = Purchase value
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/1bd09ea9-8f6a-47ed-8bc4-c80cbc72f033)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/45366e29-686e-45a9-b8ee-fc29ab70e4dc)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/06182e36-5393-4a9b-b70d-3a5520de58e6)
