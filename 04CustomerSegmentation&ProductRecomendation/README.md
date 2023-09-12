@@ -72,15 +72,50 @@ The dataset lacks crucial information like the price per product and details abo
 
 # Data Transformation
 
+ ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/0aabd07f-0390-4dd9-9981-f0b1fc74303a)
+
 ## 1. Customer Single View
 The goal is to aggregate sales transaction data to formulate a customer single view. This will later aid in developing the customer clustering model.
 
-
-## Data Transformation
-![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/0aabd07f-0390-4dd9-9981-f0b1fc74303a)
-
-## Customer single view
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/5040420e-8c07-40aa-a429-2cb1068e4aa6)
+
+
+# Social Network Analysis
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/a8ac4d16-a122-4cb2-bd20-037768b54867)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/012ebecb-6f4c-4b08-85f7-a827f3e1ae6e)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/910ff40e-6aa0-4ea7-b8cc-aabcb287c391)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/55bdd878-35cf-4a64-931b-ef0c97cd734d)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/12b4a37e-c227-4856-881a-7c6d8ae15906)
+
+# Next Degree of Top Sponsors Analysis:
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/e64e2342-e3ad-4b7e-9428-8c853ca889f0)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/79f2d924-881a-40ac-bbcc-14a0392bdaa2)
+
+- **Visual Representation**: The concentration of nodes around each top sponsor in the network graph depicts their profound influence on network expansion and their effectiveness in recruitment.
+- **Key Players**: These top sponsors emerge as the backbone of our network. They have been successful in onboarding the maximum number of members.  
+- **Delving Deeper**: By exploring the nodes directly connected to our top sponsors (essentially their immediate recruits or the next degree), we gain insights into:
+  - Efficient recruitment strategies
+  - Effective member support mechanisms
+  - Potential patterns in member selection
+- **Emulating Success**: Analyzing the techniques and patterns of our top sponsors and their recruits allows us to discern successful strategies. By adopting and adapting these strategies, we can replicate their success throughout the network.
+  - ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/ebc331d6-f6db-46ce-b9d5-19c9a9eacc63)
+  - ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/08ac5fe4-2026-4780-8510-e7afa4eaeb51)
+
+
+# Customer Segmentation using K-Means Clustering
+
+Using the data from the customer single view, segment the customers.
+
+
+## Feature Summary
+### Behavior's:
+(You can provide the behavior features you'll be using for clustering here.)
+
+## Determine Optimal Number of Clusters 
 
 
 
