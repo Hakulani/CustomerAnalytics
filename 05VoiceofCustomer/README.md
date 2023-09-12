@@ -1,4 +1,3 @@
-![Topic](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/14e24355-49c7-4f78-b0df-d1e2390dc34e)<!DOCTYPE html>
 <html>
 <head>Voice of Customer Topic Modeling from review </head>
 <body>
