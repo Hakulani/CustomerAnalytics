@@ -2,7 +2,7 @@
 MADT 8101 Seminar in Management of Analytics and Data Technologies (Customer Analytics) 
 Hand-on workshop by Witsarut Wongsim 6420422017  and our team members
 
-Course instructor : Dr. Thanachart Ritbumroong  , NIDA
+<br>Course instructor : Dr. Thanachart Ritbumroong  , NIDA</br>
 
 ## Project
  
