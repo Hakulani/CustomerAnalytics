@@ -16,8 +16,12 @@ Imagine a scenario where a supermarket wants to create a single customer view. T
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/b8701f03-53c1-4fe6-8f98-1456efcde868)
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/275ad70d-05bb-4961-b770-d84acad110cd)
 
-## overview
+## Overview custoner types
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/07433794-1ba3-428d-bb53-9a68db348e49)
+
+## Check and clean raw data
+- Check missing value 578,082 rows and have null value in columns CUST_CODE, CUST_PRICE_SENSITIVITY and CUST_LIFESTAGE
+- Clean data: Remove row which have null in column CUST_CODE to show only the members transaction.
 
 ## customer single view
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/a7b02b30-a375-4da0-a258-14a4da032e73)
