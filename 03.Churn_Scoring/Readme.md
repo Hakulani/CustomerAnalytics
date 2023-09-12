@@ -23,5 +23,8 @@ The data foundation for our models is an e-commerce dataset comprised of 5,630 e
 
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/8a90b472-6b29-4bd3-9189-71a7d982449a)
 
-
+## Data Transformation
+- Drop the missing value out.
+- Transform the category variable to numeric variable by using one-hot encoding technique.
+- Perform standard scaling 
 
