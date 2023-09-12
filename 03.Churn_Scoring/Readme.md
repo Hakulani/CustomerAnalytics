@@ -30,8 +30,7 @@ The data foundation for our models is an e-commerce dataset comprised of 5,630 e
 
 <code>df = df.dropna()</code>
 
-<code>
-#one-hot encoding
+<code>#one-hot encoding
 df_dummmies = pd.get_dummies(df[['PreferredLoginDevice','PreferredPaymentMode','Gender','PreferedOrderCat','MaritalStatus']])
 df = df.merge(df_dummmies, left_index=True, right_index=True, how='inner')
 
