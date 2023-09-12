@@ -1,5 +1,17 @@
 
-# Project Customer Single View and Basic Bustomer Analytics
+# Project Customer Single View and Basic Customer Analytics
+
+## Definition
+**Customer Single View** is a comprehensive representation that consolidates diverse customer data points, such as personal details and sales transactions, into one unified profile.
+Typically formulated within a **Customer Data Platform (CDP)**, this view streamlines all user information, making it readily accessible for teams across an organization to extract insights and conduct analyses.
+
+## Benefits
+- **Enhanced Understanding**: Gain a deeper understanding of customer profiles, purchase behaviors, preferences, and more.
+- **Strengthened Relationships**: Foster improved customer relations by ensuring cohesive and tailored interactions across various touchpoints and departments that resonate with customer needs.
+
+## Case Study
+Imagine a scenario where a supermarket wants to create a single customer view. They would integrate data from loyalty programs, point-of-sale systems, online shopping carts, feedback forms, and more. This consolidated view would then provide insights into a customer's preferred shopping time, frequently bought items, preferred payment method, and even responses to past promotions, enabling tailored marketing strategies and improved service delivery.
+
 ## dataset
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/b8701f03-53c1-4fe6-8f98-1456efcde868)
 
