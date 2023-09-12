@@ -92,7 +92,15 @@ id2word = dictionary.id2token<br>
                                     passes=passes, eval_every=eval_every)
 </code>
 
-<p>With this, you should have a topic model ready. You can then visualize the topics, inspect their keywords, or perform further analyses based on the topics.</p>
+<h2>Visualizing Topics with pyLDAvis</h2>
+
+<p>After building the topic model, you can use <code>pyLDAvis</code> to visualize the topics and their relevance with terms:</p>
+
+<code>
+pyLDAvis.gensim.prepare(model, gensim_corpus, dictionary)
+</code>
+
+<p>This will provide an interactive visualization where you can explore the topics, view the terms that make up each topic, and see the distribution of topics across the corpus.</p>
 
 </body>
 </html>
