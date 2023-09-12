@@ -139,7 +139,6 @@ df['score'] = df['Review_tokenized'].apply(lambda x: model.get_document_topics(d
 sorted_df = df.sort_values(by='topics')
 </code>
 
-<p>This will produce a DataFrame where reviews are grouped by their dominant topic, making it easier to analyze.</p>
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/4d09ff96-0c7f-4a1e-af91-f2ff234a8e81)
 
 <h2>Visualizing Top Keywords per Topic using a Heatmap</h2>
