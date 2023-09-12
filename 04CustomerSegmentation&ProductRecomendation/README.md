@@ -177,10 +177,10 @@ The main objectives of this project include:
 At its core, a product recommendation is a filtering mechanism designed to predict and display items a user might wish to purchase. While the system may not always hit the mark, it's deemed successful if it aligns with user preferences.
 
 ## Benefit
-Increased Sales and Revenue
-Enhanced Customer Engagement
-Improved Customer Retention
-Understanding and anticipating customer needs
+- **Increased Sales and Revenue**
+- **Enhanced Customer Engagement**
+- **Improved Customer Retention**
+- **Understanding and anticipating customer needs**
 
 
 # Product Recommendation System
