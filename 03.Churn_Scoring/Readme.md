@@ -8,7 +8,7 @@ Customer churn refers to the scenario when customers cease their engagement with
 Customer Churn Scoring uses behavioral patterns to predict which customers are most likely to disengage. Such predictive insights empower businesses to intervene proactively, potentially preventing customers from severing their ties.
 
 **Our Approach:**  
-In our analysis, we employed a mix of analytical models and sampling techniques. The primary objective was to discern which combination of these methods yielded the most accurate predictions for our dataset.
+In our analysis, we employed a mix of analytical ML models and select the best model from score.  
 
 **Case Study Insights:**  
 The data foundation for our models is an e-commerce dataset comprised of 5,630 entries spread across 20 columns. The dataset encapsulates the following particulars:
