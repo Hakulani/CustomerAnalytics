@@ -116,7 +116,7 @@ class ModelEvaluator:
             plt.show()
         return pd.DataFrame(results)
 
-        # Specify the models you want to evaluate
+#Specify the models you want to evaluate
 models = {
     'Logistic Regression': LogisticRegression(),
     'Random Forest': RandomForestClassifier(),
