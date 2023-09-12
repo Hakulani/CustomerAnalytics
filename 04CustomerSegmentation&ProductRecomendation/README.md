@@ -91,7 +91,10 @@ The goal is to aggregate sales transaction data to formulate a customer single v
  
 
 # Next Degree of Top Sponsors Analysis:
-![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/79f2d924-881a-40ac-bbcc-14a0392bdaa2)
+
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/527c6d2f-0412-43d1-80f9-fc95dd102434)
+
+
 - **Visual Representation**: The concentration of nodes around each top sponsor in the network graph depicts their profound influence on network expansion and their effectiveness in recruitment.
 - **Key Players**: These top sponsors emerge as the backbone of our network. They have been successful in onboarding the maximum number of members.  
 - **Delving Deeper**: By exploring the nodes directly connected to our top sponsors (essentially their immediate recruits or the next degree), we gain insights into:
