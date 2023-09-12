@@ -7,7 +7,7 @@ Course instructor : Dr. Thanachart Ritbumroong  , NIDA
  
 - **01 Customer Data Platform**[link](https://github.com/Hakulani/CustomerAnalytics/tree/main/01Customer_Data_Platform)
 - **Customer Single View**[link](https://github.com/Hakulani/CustomerAnalytics/tree/main/02Customer_Single_View)
-
+[Video tutorial](https://github.com/Hakulani/CustomerAnalytics/tree/main/02Customer_Single_View)
 - **02 Customer Lifetime Value** [link](https://github.com/Hakulani/CustomerAnalytics/tree/main/02_Customer%20Lifetime%20Value)
 
 - **03 Customer Churn Scoring** [link](https://github.com/Hakulani/CustomerAnalytics/tree/main/03.Churn_Scoring)
