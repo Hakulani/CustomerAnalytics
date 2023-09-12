@@ -5,15 +5,14 @@ Course instructor : Dr. Thanachart Ritbumroong  , NIDA
 
 ## Project
  
-- **01 Customer Data Platform**[View on GitHub](https://github.com/Hakulani/CustomerAnalytics/tree/main/01Customer_Data_Platform)
--  Customer Single View** 
+- **01 Customer Data Platform**[link] (https://github.com/Hakulani/CustomerAnalytics/tree/main/01Customer_Data_Platform)
+- **Customer Single View**[link] (https://github.com/Hakulani/CustomerAnalytics/tree/main/02Customer_Single_View)
 
-- **02 Customer Lifetime Value** [View on GitHub](Your Link Here)
+- **02 Customer Lifetime Value** [link](https://github.com/Hakulani/CustomerAnalytics/tree/main/02_Customer%20Lifetime%20Value)
 
-- **03 Customer Churn Scoring** [View on GitHub](Your Link Here)
+- **03 Customer Churn Scoring** [link](https://github.com/Hakulani/CustomerAnalytics/tree/main/03.Churn_Scoring)
 
-- **04 Customer Segmentation and Product Recommendation** [View on GitHub](Your Link Here)
+- **04 Customer Segmentation and Product Recommendation** [link](https://github.com/Hakulani/CustomerAnalytics/tree/main/04CustomerSegmentation%26ProductRecomendation)
 
-- **05 Voice of Customer** [View on GitHub](Your Link Here)
 
- 
+- **05 Voice of Customer** [link](https://github.com/Hakulani/CustomerAnalytics/tree/main/05VoiceofCustomer)
