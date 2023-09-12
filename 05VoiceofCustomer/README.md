@@ -3,7 +3,7 @@
 <head>Voice of Customer Topic Modeling from review </head>
 <body>
 
-<h1>Thai Topic Modeling using PyThaiNLP, Gensim and pyLDAvis</h1>
+<h1>Voice of Customer Topic Modeling from review using PyThaiNLP, Gensim and pyLDAvis</h1>
 
 <p>This repository contains a project that performs topic modeling on Thai text. The main libraries used are PyThaiNLP for Thai language processing, Gensim for topic modeling, and pyLDAvis for visualization.</p>
 
