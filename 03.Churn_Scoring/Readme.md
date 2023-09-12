@@ -28,3 +28,4 @@ The data foundation for our models is an e-commerce dataset comprised of 5,630 e
 - Transform the category variable to numeric variable by using one-hot encoding technique.
 - Perform standard scaling 
 
+<code>df = df.dropna()</code>
