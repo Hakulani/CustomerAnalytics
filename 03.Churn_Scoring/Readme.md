@@ -30,7 +30,8 @@ The data foundation for our models is an e-commerce dataset comprised of 5,630 e
 
 <code>df = df.dropna()</code>
 
-<code>#one-hot encoding
+<code>
+#one-hot encoding
 df_dummmies = pd.get_dummies(df[['PreferredLoginDevice','PreferredPaymentMode','Gender','PreferedOrderCat','MaritalStatus']])
 df = df.merge(df_dummmies, left_index=True, right_index=True, how='inner')
 
@@ -45,13 +46,13 @@ X_scaled.columns = X.columns
 
 #Train-Test dataset
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=0)
-
 </code>
 
 
 ## Model Creation and Evaluation
 
 <code>
+    
 class ModelEvaluator:
     def __init__(self, models,X_train, X_test, y_train, y_test):
         self.models = models
@@ -116,6 +117,8 @@ class ModelEvaluator:
         return pd.DataFrame(results)
 
 </code>
+
+
 <code>
 #Specify the models you want to evaluate
 models = {
@@ -141,10 +144,12 @@ Model: Logistic Regression, Sampler: no_sampler
 Confusion Matrix: 
 </code>
 
+
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/a9b98e1d-ed9b-4062-b560-e941a90b61b2)
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/462c132e-f4e1-4e5f-8d35-7b9e1e8f2182)
 
 <code>
+    
               precision    recall  f1-score   support
 
            0       0.95      0.80      0.87       623
@@ -157,12 +162,14 @@ weighted avg       0.86      0.80      0.82       755
 Model: Logistic Regression, Sampler: Under_Sampler
 
 Confusion Matrix
+
 </code>
 
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/5eb614bc-9b1c-4dca-95bd-82324bcecd40)
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/e899e6b5-44e5-4805-80a3-a1a3bfdc866a)
 
 ## Result all models
+
 <code>
                   Model        Sampler  Precision    Recall  F1 Score
 0   Logistic Regression     no_sampler   0.771084  0.484848  0.595349
@@ -225,8 +232,7 @@ fit_evaluate(modelXGB, X_train, X_test, y_train, y_test)
 </code>
 
 <code>
-
-* XGBoost Classifier * 
+XGBoost Classifier  
 
               precision    recall  f1-score   support
 
@@ -240,6 +246,8 @@ weighted avg       0.98      0.98      0.98       755
 
 Confusion Matrix: 
 </code>
+
+
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/43b1b4a3-7eb7-46fe-8009-677c372207da)
 
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/2d8b0558-ebb8-4e04-85e9-0dace14331eb)
@@ -294,6 +302,7 @@ print(sorted_features)
 31     28                PreferedOrderCat_Mobile    0.000000
 32     16                PreferredPaymentMode_CC    0.000000
 33     30                PreferedOrderCat_Others    0.000000
+
 </code>
 
 
