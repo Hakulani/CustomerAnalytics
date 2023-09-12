@@ -14,14 +14,15 @@ Imagine a scenario where a supermarket wants to create a single customer view. T
 
 ## dataset
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/b8701f03-53c1-4fe6-8f98-1456efcde868)
+![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/275ad70d-05bb-4961-b770-d84acad110cd)
 
 ## overview
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/07433794-1ba3-428d-bb53-9a68db348e49)
-![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/275ad70d-05bb-4961-b770-d84acad110cd)
 
 ## customer single view
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/a7b02b30-a375-4da0-a258-14a4da032e73)
- 
+## Segmentation
+
 ## Silhouette and Elbow to find the number of K 
 ![image](https://github.com/Hakulani/CustomerAnalytics/assets/61573397/443646f9-546f-4b41-8a78-881240c7f224)
 
